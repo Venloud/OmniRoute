@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "repository": "Venloud/OmniRoute",
+  "skills": [
+    "mcp-dependency-review",
+    "agent-security-hardening",
+    "agent-eval"
+  ],
+  "restrictions": "Keep providers, credentials, permission scopes and model budgets unchanged. No live inference in verification.",
+  "upstream": "v2.2.3",
+  "memory": "Vandam canonical; no automatic observation or separate memory store"
+}
